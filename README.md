@@ -6,6 +6,6 @@ Check list of eBPF or non-eBPF tools to performance analysis
 
 ## Tools
 
-- uprobres
+- uprobres - user-space hooks
+- kprobes - kernel-space hooks
 - execsnoop - check what running on system
-
